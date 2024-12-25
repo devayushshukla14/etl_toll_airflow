@@ -18,7 +18,7 @@ The project contains the following key components:
 3. **Data Files** 
 4. **Bash Commands**
 
-### Setup Instructions
+ Setup Instructions
   **Place your DAG file**:
     Place the `ETL_toll_data.py` file inside your Airflow `dags` directory.
 
